@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "react-toastify": "^10.0.5"
+  }
+}

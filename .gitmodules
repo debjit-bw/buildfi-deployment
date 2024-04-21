@@ -1,0 +1,15 @@
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/sign-protocol-evm"]
+	path = lib/sign-protocol-evm
+	url = https://github.com/ethsign/sign-protocol-evm
+[submodule "lib/risc0-ethereum"]
+	path = lib/risc0-ethereum
+	url = https://github.com/risc0/risc0-ethereum
+[submodule "lib/contracts-core"]
+	path = lib/contracts-core
+	url = https://github.com/WitnessCo/contracts-core

@@ -1,0 +1,134 @@
+.txt2 {
+  cursor: pointer;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding-bottom: 0.25rem;
+  padding-top: 0.25rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  color: #ffffff;
+  font-size: 4rem;
+  justify-content: center;
+  font-family: "Patua One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.txt3{
+    margin-top: 4rem;
+  cursor: pointer;
+  display: flex;
+  width: 100%;
+  align-items: left;
+  padding-bottom: 0.25rem;
+  padding-top: 0.25rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  color: #ffffff;
+  font-size: 2.5rem;
+  justify-content: flex-start;
+  font-family: "Patua One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.btn {
+  padding: 16px;
+  cursor: pointer;
+  background: white;
+  width: 100%;
+  border-radius: 4px;
+  border: 2px solid wheat;
+  color: black;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
+.btn {
+    padding: 12px;
+  cursor: pointer;
+  background: white;
+  width: 100%;
+  border-radius: 4px;
+  border: 2px solid wheat;
+  color: black;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+  background: linear-gradient(
+    221deg,
+    rgba(143, 255, 133, 0.4),
+    rgba(57, 160, 255, 0.4)
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 54px;
+  color: #fff;
+  font-weight: 400;
+  line-height: 160%;
+  letter-spacing: 1.92px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.btn2 {
+  padding: 12px;
+  cursor: pointer;
+  background: rgb(185, 180, 180);
+  width: 100%;
+  border-radius: 4px;
+  border: 2px solid wheat;
+  color: black;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+  background: linear-gradient(
+    221deg,
+    rgba(61, 134, 202, 0.489),
+    rgba(38, 169, 189, 0.539)
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 54px;
+  color: #fff;
+  font-weight: 400;
+  line-height: 160%;
+  cursor: pointer;
+}
+
+.container {
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 100vh;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.form {
+  width: 100%;
+}
+
+
+.inputtext{
+    outline: none;
+    resize: none;
+    font-size: 2rem;
+    justify-content: center;
+    font-family: "Patua One", serif;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    color: #fff;
+    padding: 0.5rem;
+    width: 100%;
+    border: 1px solid white;
+    margin-bottom: 84px;
+}
